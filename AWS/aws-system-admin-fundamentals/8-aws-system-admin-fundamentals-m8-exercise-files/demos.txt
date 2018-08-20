@@ -1,0 +1,2 @@
+EC2 Instance Types:
+http://aws.amazon.com/ec2/instance-types/ 

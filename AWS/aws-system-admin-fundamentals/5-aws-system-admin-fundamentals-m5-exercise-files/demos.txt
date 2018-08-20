@@ -1,0 +1,2 @@
+AWS Free Tier:
+http://aws.amazon.com/free/ 

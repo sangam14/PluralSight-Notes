@@ -1,0 +1,2 @@
+S3 pricing:
+http://aws.amazon.com/s3/pricing/ 
